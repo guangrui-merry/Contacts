@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- 通讯大全View -->
+    <style name="tel_showtext">
+        <item name="android:background">#FF009ACD</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/tel_title</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/tel_show_textsize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
